@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    width: 512px;
+    color: orange;
+    background-color: dimgrey;
+}
+span{
+    text-align: right;
+    font-size: 14px;
+    color: greenyellow;
+}
